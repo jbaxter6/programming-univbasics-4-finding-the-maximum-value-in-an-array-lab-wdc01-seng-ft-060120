@@ -6,5 +6,5 @@ def find_max_value(array)
         puts max()
       end 
     counter += 1
-  end
+    end
 end
